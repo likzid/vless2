@@ -56,4 +56,7 @@ vless://c13ce963-2428-44ae-8955-d152587e1fbe@46.254.17.58:80?mode=gun&security=n
 vless://43737cb8-f98b-46aa-9cbb-6e31005bfcc1@46.254.17.58:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#%F0%9F%87%B7%F0%9F%87%BA%20LTE%20%7C%20new%20%237%F0%9F%9A%80
 vless://ec05d01d-7b06-4dca-bf44-845da1500d2c@46.182.24.89:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#%F0%9F%87%B8%F0%9F%87%B4%20LTE%20%7C%20new%20%238%F0%9F%9A%80
 vless://ec05d01d-7b06-4dca-bf44-845da1500d2c@46.182.24.89:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#%F0%9F%87%B8%F0%9F%87%B4%20LTE%20%7C%20new%20%239%F0%9F%9A%80
+trojan://tub3NfW4kde6PDtfQ6hpc03C35jRErP8@s35221.cdn.ngenix.net:443?path=%2Fapi%2Fuser&security=tls&alpn=http%2F1.1&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=s35221.cdn.ngenix.net#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20%7C%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%BD%D1%8B%D0%B9
+vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?mode=auto&path=%2Flivestreamcontent%2F&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=top3739667002.mwscdn.ru#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20%7C%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%BD%D1%8B%D0%B9
+vless://25469d3e-83d8-4a42-a60d-ef58ed94157c@top1342980873.mwscdn.ru:443?mode=auto&path=%2Fbuy&security=tls&encryption=none&insecure=0&host=top1342980873.mwscdn.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=top1342980873.mwscdn.ru#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20%7C%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%BD%D1%8B%D0%B9
 
